@@ -11,14 +11,9 @@ How to use:
 - Profit??!
 
 Credits:
-Made using Multimedia Fusion 2 by Clickteam
-
-Message Box and Asker by G2F2 Media & Inv.
-
-Sprites made using Aseprite
-
-Baba Friend by Arvi Teikari (2022)
-
-Screen pixel object by Jamie McLaughlin
-
-Mouse object by Marcello Bastea-Forte
+- Made using Multimedia Fusion 2 by Clickteam
+- Message Box and Asker by G2F2 Media & Inv.
+- Sprites made using Aseprite
+- Baba Friend by Arvi Teikari (2022)
+- Screen pixel object by Jamie McLaughlin
+- Mouse object by Marcello Bastea-Forte
