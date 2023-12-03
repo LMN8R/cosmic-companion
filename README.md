@@ -3,6 +3,8 @@ A desktop pet with pixel art sprites
 
 ![jobshei](https://github.com/LMN8R/cosmic-companion/assets/90606029/7dbcd6c8-41cc-4f5d-9261-81f0e81d96f2)
 
+[click me to download](https://github.com/LMN8R/cosmic-companion/archive/refs/heads/main.zip)
+
 How to use:
 - Run the executable file 
 - Watch UFO move around
