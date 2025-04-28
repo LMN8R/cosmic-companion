@@ -2,7 +2,7 @@
 set=1
 set2=1
 [settings]
-sprite_folder=ufo
+sprite_folder=baba
 movement_change_wait=20
 movement_speed_min=10
 movement_speed_max=15
